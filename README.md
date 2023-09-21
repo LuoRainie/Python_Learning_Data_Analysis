@@ -1,2 +1,3 @@
 # Python_Learning_Data_Analysis
-浅浅地学一下Python
+这是本人学习Python过程中保留的分析数据及过程
+主要学习目标是数据的评估和清洗
